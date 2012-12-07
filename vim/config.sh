@@ -5,6 +5,6 @@ cp snipmate/html.snippets ~/.vim/janus/vim/tools/snipmate-snippets/snippets/html
 cp syntastic/html.vim ~/.vim/janus/vim/tools/syntastic/syntax_checkers/html.vim
 cp syntastic/sass.vim ~/.vim/janus/vim/tools/syntastic/syntax_checkers/sass.vim
 cp syntastic/scss.vim ~/.vim/janus/vim/tools/syntastic/syntax_checkers/scss.vim
-cp vim/.vimrc.before ~
-cp vim/.vimrc.after ~
+cp .vimrc.before ~
+cp .vimrc.after ~
 
