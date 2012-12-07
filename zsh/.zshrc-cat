@@ -1,0 +1,4 @@
+. ~/Documents/Software/z/z.sh
+. ~/.profile
+alias g='mvim --remote-silent'
+

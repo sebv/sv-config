@@ -1,0 +1,8 @@
+let g:syntastic_javascript_checker = "jshint"
+" let g:syntastic_javascript_jslint_conf = "/Users/seb/.jshintrc"
+
+if has("gui_macvim")
+  macmenu &File.New\ Tab key=<nop>
+  map <D-t> <Plug>PeepOpen
+end
+
